@@ -24,7 +24,7 @@ function Navbar() {
         >
           <div class="container-fluid">
             <Link class="navbar-brand" to="/">
-              Travel
+              Shubh 
               <i class="fab fa-typo3"></i>
             </Link>
             <button
